@@ -1,0 +1,3 @@
+- selenium: https://selenium-python.readthedocs.io/
+- geckodriver: https://github.com/mozilla/geckodriver/releases
+- prntsc: https://prnt.sc/
